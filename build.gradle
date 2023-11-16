@@ -30,6 +30,6 @@ tasks.named('test') {
 
 checkstyle {
     toolVersion = '10.2'
-    configFile file('C:\\Users\\user\\Downloads\\namemanagement\\namemanagement\\MyGradleProject\\config\\checkstyle\\google_checks.xml')
+    configFile file('C:\\Users\\user\\Downloads\\namemanagement\\namemanagement\\MyGradleProject\\config\\checkstyle\\checkstyle.xml')
     // その他の Checkstyle タスクの設定を追加することができます
 }
