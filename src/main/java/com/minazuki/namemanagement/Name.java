@@ -1,7 +1,6 @@
 package com.minazuki.namemanagement;
 
-public class Name {
-    private int id;
+public class Name { private int id;
     private String name;
 
     public Name(int id, String name) {
